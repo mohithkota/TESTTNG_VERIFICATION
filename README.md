@@ -1,5 +1,5 @@
-first assignment 
+First assignment 
 
-see midsem.pdf for the problem statement
+See midsem.pdf for the problem statement
 
 
